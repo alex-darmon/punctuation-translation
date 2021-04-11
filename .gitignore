@@ -1,0 +1,4 @@
+*.pickle
+*.p
+data/pickle/*
+data/gutenberg_cache/*
